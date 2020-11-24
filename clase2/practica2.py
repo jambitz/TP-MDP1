@@ -330,5 +330,5 @@ def main():
 # R: Si, a costo de rendimento, codigo menos legible y escalable, si usara un diccionario no tendria 
 # que cambiar nada gracias al uso de iteradores
 
-main()
+
 

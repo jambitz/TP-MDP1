@@ -1,5 +1,6 @@
-from clase2.estrategiaDeComparacion import *
-from clase1.practica1 import *
+from clase2.estrategiaDeComparacion import EstrategiaDeComparacion
+from clase1.numero import Numero
+
 
 class EstrategiaPorLegajo(EstrategiaDeComparacion):
     def sosMenor(self, comparableA, comparableB):
